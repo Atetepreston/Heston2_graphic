@@ -1,0 +1,4 @@
+streamlit
+numpy
+matplotlib
+py_vollib_vectorized
